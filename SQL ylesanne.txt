@@ -3,3 +3,6 @@
 
 DROP COLUMN SpaceProgram
 FROM Astronauts
+
+ALTER TABLE Hell
+ADD Column Satan(char20), Boiler(char20), Sin(char20)
