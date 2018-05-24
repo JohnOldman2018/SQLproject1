@@ -1,2 +1,7 @@
-1. Удалить столбец Astronauts из таблицы SpaceProgram
+﻿1. Удалить столбец Astronauts из таблицы SpaceProgram
+
+ drop Astronauts from SpaceProgram
+
 2. Ввести данные в таблицу Hell в колонки: Satan, Boiler, Sin
+
+INSERT INTO Hell (Satan, Boiler, Sin) VALUES (‘1′,’2′,’3’)
